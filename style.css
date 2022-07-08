@@ -1,0 +1,12 @@
+html {
+    background-image: url('https://i.pinimg.com/474x/ec/80/8b/ec808b19f0e97b9ba114db1a4c4a4c5e.jpg');
+    background-position: center;
+}
+
+
+body {
+    backdrop-filter: blur(25px) saturate(146%);
+    -webkit-backdrop-filter: blur(25px) saturate(146%);
+    background-color: rgba(255, 255, 255, 0.83);
+    border: 1px solid rgba(209, 213, 219, 0.3);;
+}
